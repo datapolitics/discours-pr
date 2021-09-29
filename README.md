@@ -10,7 +10,7 @@
 
 ## :dart: A propos ##
 
-Ce projet contient l'ensemble des discours et communications officielles du président de la république française depuis 1974 et jusqu'à mi-septembre 2020 environ.
+Ce projet contient l'ensemble des discours et communications officielles du président de la république française depuis 1974 et jusqu'à mi-septembre 2021 environ.
 
 Les données sont issues de [Vie Publique](http://vie-publique.fr) qui maintient à jour une base de donnéee exceptionnelle.
 
